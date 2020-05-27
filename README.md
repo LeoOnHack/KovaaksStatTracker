@@ -7,4 +7,9 @@
 4. Enjoy your graphs
 
 ## Troubleshooting:
-If it says MatPlotLib is not found then you need to install it first
+MatPlotLib is not found: 
+You need to install it. Directions can be found here > https://matplotlib.org/3.1.1/users/installing.html
+
+Installing MatPlotLib (Copied from link)
+1. `python -m pip install -U pip`
+2. `python -m pip install -U matplotlib`
